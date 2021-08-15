@@ -1,0 +1,7 @@
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.csproj.AssemblyReference.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.AssemblyInfoInputs.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.AssemblyInfo.cs
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.MvcApplicationPartsAssemblyInfo.cs
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork.MvcApplicationPartsAssemblyInfo.cache

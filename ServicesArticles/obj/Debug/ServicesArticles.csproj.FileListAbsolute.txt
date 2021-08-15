@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\ServicesArticles.dll
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\ServicesArticles.pdb
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\Interfaces.dll
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\Interfaces.pdb
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.CopyComplete
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.dll
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.pdb
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.csproj.AssemblyReference.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.csproj.CoreCompileInputs.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.dll
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\bin\Debug\ServicesArticles.dll
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\bin\Debug\ServicesArticles.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\bin\Debug\Interfaces.dll
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\bin\Debug\Interfaces.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.csproj.AssemblyReference.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.csproj.CoreCompileInputs.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.csproj.CopyComplete
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.dll
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\ServicesArticles\obj\Debug\ServicesArticles.pdb

@@ -1,0 +1,43 @@
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.exe
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.deps.json
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.runtimeconfig.json
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\ref\HomeWork_2.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\HomeWork_2.pdb
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Interfaces.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\ServicesArticles.dll
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\user\source\repos\HomeWork_2\bin\Debug\net5.0\ServicesArticles.pdb
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\staticwebassets\HomeWork_2.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\staticwebassets\HomeWork_2.StaticWebAssets.xml
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\scopedcss\bundle\HomeWork_2.styles.css
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.csproj.CopyComplete
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.dll
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\ref\HomeWork_2.dll
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.pdb
+C:\Users\user\source\repos\HomeWork_2\obj\Debug\net5.0\HomeWork_2.genruntimeconfig.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.csproj.AssemblyReference.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.AssemblyInfoInputs.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.AssemblyInfo.cs
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.csproj.CoreCompileInputs.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.MvcApplicationPartsAssemblyInfo.cs
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.MvcApplicationPartsAssemblyInfo.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.dll
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\ref\HomeWork_2.dll
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\HomeWork_2\obj\Debug\net5.0\HomeWork_2.pdb

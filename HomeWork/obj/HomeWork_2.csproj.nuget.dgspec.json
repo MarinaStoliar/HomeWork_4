@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj": {}
+  },
+  "projects": {
+    "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj",
+        "projectName": "HomeWork_2",
+        "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj",
+        "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
+        "outputPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\HomeWork_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Админ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\WORK\\Project\\work\\mashivon_main\\meshivon\\local_packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+              },
+              "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj": {
+                "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj",
+        "projectName": "ServicesArticles",
+        "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "D:\\WORK\\Project\\С#\\Exitec\\Module2\\lesson2\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

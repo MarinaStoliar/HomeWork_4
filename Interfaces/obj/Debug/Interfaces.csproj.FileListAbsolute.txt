@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\user\source\repos\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\user\source\repos\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\user\source\repos\Interfaces\obj\Debug\Interfaces.pdb
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\bin\Debug\Interfaces.dll
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\bin\Debug\Interfaces.pdb
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.dll
+E:\уроки іт\Домашня\модуль 2\дз 2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\bin\Debug\Interfaces.dll
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\bin\Debug\Interfaces.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.dll
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.pdb
+D:\WORK\Project\С#\Exitec\Module2\lesson2\HomeWork_2-main\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
